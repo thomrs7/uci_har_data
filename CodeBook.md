@@ -87,7 +87,7 @@ The names have been updated from an ID to a human readable format.
 
 
 # Data Format
-
+```
 'data.frame':    10299 obs. of  68 variables:
  $ tbody-acceleration-mean-x           : num  0.289 0.278 0.28 0.279 0.277 ...
  $ tbody-acceleration-mean-y           : num  -0.0203 -0.0164 -0.0195 -0.0262 -0.0166 ...
@@ -157,3 +157,4 @@ The names have been updated from an ID to a human readable format.
  $ fbody-magnitude-std                 : num  -0.991 -0.996 -0.995 -0.995 -0.995 ...
  $ subject                             : int  1 1 1 1 1 1 1 1 1 1 ...
  $ activity                            : chr  "STANDING" "STANDING" "STANDING" "STANDING" ..
+```
